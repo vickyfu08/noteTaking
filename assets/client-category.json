@@ -1,0 +1,30 @@
+{
+  "category": [
+    {
+      "label": "category1",
+      "value": "category1"
+    },
+    {
+      "label": "category2",
+      "value": "category2"
+    },
+    {
+      "label": "category3",
+      "value": "category3"
+    }
+  ],
+  "client": [
+    {
+      "label": "client1",
+      "value": "client1"
+    },
+    {
+      "label": "client2",
+      "value": "client2"
+    },
+    {
+      "label": "client3",
+      "value": "client3"
+    }
+  ]
+}
